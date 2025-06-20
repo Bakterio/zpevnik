@@ -1,0 +1,14 @@
+version = 2
+
+songs = "*.md"
+
+notation = "german"
+
+[[output]]
+file = "songbook.pdf"
+sans_font = true
+
+[book]
+title = "Spěvník"
+subtitle = "Lukas"
+chorus_label = "R"
