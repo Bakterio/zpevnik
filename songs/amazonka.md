@@ -1,5 +1,6 @@
-# Amazonka - přidat C kde má být?
+# Amazonka
 ## Hop Trop
+*Capo 2*
 
 1. `G`Byly krásný naše plány,
 byla jsi můj celej `Hmi`svět,`Bmi Ami`
@@ -11,10 +12,10 @@ ale život utíká,
 už na "táto" slyší jinej,
 i když si tak neříká.
 
-> `D7`Nebe modrý zrcad`G`lí se
+> `D`Nebe `D7`modrý zrcad`G`lí se
 `E`v řece, `E7`která všechno `Ami`ví,
-stejnou `C`barvu jako `G`měly
-`Ami`tvoje oči džíno`D`vý.
+stejnou ``C``barvu jako `G`měly
+`Ami`tvoje oči džíno`D`vý.`Dsus4 D`
 
 3. Kluci tenkrát, co tě znali,
 všude, kde jsem s tebou byl,
@@ -33,8 +34,8 @@ jak sis časem myslela
 vadil možná trampskej šátek,
 nosit dáls' ho nechtěla.
 
->> `D7`Teď jsi víla z pane`G`láku,
-`E7`samá dečka, samej `Ami`krám,
+>> `D`Teď jsi `D7`víla z pane`G`láku,
+`E`samá `E7`dečka, samej `Ami`krám,
 já si přál jen, abys `G`byla
-`Ami`pořád stejná, přísa`D`hám,
+`Ami`pořád stejná, přísa`D`hám,`Dsus4 D`
 pořád stej`C`ná, přísa-`G`hám.

@@ -2,7 +2,7 @@
 ## Suchý, Šlitr
  
 1. `E`Představte si, `A7`představte si, `E`co jsem měl dnes `A7`k obědu,
-`E`Představte si, `A7`představte si, `E`co jsem měl dnes `A7`k obědu,
+`E`Představte si, `A7`představte si, `D7`co jsem měl dnes k obědu,
 `G`Knedlíky `A7`se zelím, `D7`se zelím `G`kyselým,
 `H7`To koukáte, `E`to kouká``C#``te, `F#`co jsem měl dnes `H7`k obě`E`du.
 

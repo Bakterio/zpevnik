@@ -1,0 +1,54 @@
+- [x] -rw-r--r--  1 bakterio bakterio  245097 27. kvě  2024 Amazonka-edit.pdf
+- [x] -rw-r--r--  1 bakterio bakterio   64248 16. srp  2024 blaznova-ukolebavka.pdf
+- [x] -rw-r--r--  1 bakterio bakterio   37126 28. kvě  2024 Blues-folsomske-veznice.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio   65978 23. zář  2024 cerstva-krev.pdf
+- [x] -rw-r--r--  1 bakterio bakterio   65069 16. srp  2024 co-jsem-mel-dnes-k-obedu.pdf
+- [x] -rw-r--r--  1 bakterio bakterio 1744734  6. dub 11.17 Čekej-malá-Gréto.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio 1744764 27. kvě  2024 Darmodej.pdf
+- [x] -rw-r--r--  1 bakterio bakterio 1743860 26. kvě  2024 Hejno_vran.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio 1744756 23. bře  2024 Hobo_a_pes.pdf
+- [x] -rw-r--r--  1 bakterio bakterio   46715 27. kvě  2024 Hutsonský šífy.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio  296175 19. kvě  2024 Hymna vlčat_VN_.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio   64146 24. říj  2024 island.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio 1743878  6. dub 11.15 Jantarová-země.pdf
+- [X] -rw-r--r--  1 bakterio bakterio 1744508 25. zář  2024 jarní-taní.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio   37505 22. bře  2024 Jez.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio   43625 27. kvě  2024 Karel-Kryl-Morituri-te-salutant.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio   65458  6. dub 11.23 kdo-ti-zpiva.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio  296980 27. kvě  2024 když-nas-tata-hral-edit.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio  321167 27. kvě  2024 Kometa-edit.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio 1744238 10. říj  2024 krajina-posedla-tmou.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio 1745392 27. kvě  2024 Kral_a_klaun.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio 1744830 26. bře 16.58 kytky-stale-jeste-voni.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio 1744507 27. čen  2024 lasko-ma-ja-stunu.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio   43209 20. srp  2024 Magdaléna.PDF
+- [ ] -rw-r--r--  1 bakterio bakterio   63436 16. srp  2024 marniva-sestrenice.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio   37720 27. kvě  2024 Mávej.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio   65611 10. říj  2024 nebe-na-zemi.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio 1743805  3. čen  2024 Nen_nutno.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio   65344 16. srp  2024 o-malo-vic.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio 1743795  1. říj  2024 Opijem_se.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio   42169 27. kvě  2024 Outsider waltz.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio 1743826 26. kvě  2024 Pažitka.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio   39707 27. kvě  2024 Píseň co mě učil listopad.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio   38441 22. bře  2024 Plavci-Pole-s-bavlnou.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio   66477 23. říj  2024 poledni-jumbo-jet.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio 1744122  1. říj  2024 Puncochace.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio 1743744 26. kvě  2024 Rovnou.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio   64741  1. úno 17.00 ruty-suty.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio   64025 27. říj  2024 ruze-z-papiru.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio   39714 22. bře  2024 Sedmnáct-dnů.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio   66942  6. dub 19.33 Slavíci z Madridu.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio 1743890  2. led 21.09 Slepic_prka.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio 1743576  5. kvě  2024 Sou-fár.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio   67448  2. úno 09.16 svita.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio   68214 21. pro  2024 to-zatraceny-vedro.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio   57514 24. bře  2024 Tunel-jmenem-cas.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio   65562  2. led 21.23 uz-to-nenapravim.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio 1745375 27. čen  2024 vecer-krupavych-srdicek.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio  111384  5. bře  2024 Wabi-Daněk-Outsider-waltz.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio   76980  5. bře  2024 Wabi-Ryvola-Tak-uz-mi-ma-holka-mava.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio 1744048 16. srp  2024 Whisky_to_je_moje_gusto.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio 1744185 27. kvě  2024 Za_svou_pravdou_stat.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio   69185 16. srp  2024 zlate-zvony.pdf
+- [ ] -rw-r--r--  1 bakterio bakterio   65722 23. zář  2024 zvlastni-znameni-touha.pdf
