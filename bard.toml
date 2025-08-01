@@ -8,9 +8,9 @@ notation = "german"
 file = "songbook.pdf"
 sans_font = true
 
-[[output]]
-file = "songbook.json"
-script = "chords"
+#[[output]]
+#file = "songbook.json"
+#script = "chords"
 
 [book]
 title = "Spěvník"

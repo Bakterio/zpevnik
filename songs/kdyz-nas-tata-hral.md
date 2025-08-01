@@ -30,12 +30,12 @@ když jsem se toulal po kolejích, žebral za plotem,
 a když mi bylo nejhůř, tak přece jsem se smál, 
 když jsem si vzpomněl, jak náš táta hrál. 
 
-### Banjo
+### Od lodi k lodi
 \
-`D`A proto `G`táto, táto, `D`hraj na banjo dál
-`A7`ty jsi bejval `D`všech farmářů král.
-`D`A proto `G`táto, táto, `D`hraj na banjo dál
-`A7`ty jsi bejval farmářů `D`král.
+Ha`G`lí hola hej, od lodi `D`k lodi
+od `G`fabriky k fabrice `D`jatatata `A7`ratatata!
+S `D`dělníky ruku v ruce, `G`prapory revoluce
+`A7`po celé zemi rozvi`D`nem.
 
 4. To všechno už je dávno, táta je pod zemí, 
 když je noc a měsíc, potom zdá se mi, 
