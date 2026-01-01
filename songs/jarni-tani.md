@@ -1,6 +1,12 @@
 # Jarní tání
 ## Nedvědi
 
+*MODRÉ - capo 2*
+
+!!-2
+
+### Předehra
+\
 `Hmi_`
 1. `Hmi`Když první tání `Emi`cesty sněhu `D`zkříží
 `G`a nad `Emi`ledem se `F#`voda obje`Hmi`ví,

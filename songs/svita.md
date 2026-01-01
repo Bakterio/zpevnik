@@ -22,7 +22,7 @@ a bude den `Dmi`bílý,
 bude konec `A`do-`Adim`bro-`Emi`druž-`B7`ství.
 `D`Sví`Hmi`tá, `Emi_` `Gmi`probuď se už `D`sví`Hmi`tá `E7`
 každý příští `B7`den bude jako `A7`sen,
-chcešli uprch`D`nout `G7`se `D`mnou. `B7`
+chcešli uprch`D`nout `G7`se `D`mnou. `B7` `D`
 
 ### Akordy
 \
